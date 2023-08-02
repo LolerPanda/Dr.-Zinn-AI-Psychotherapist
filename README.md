@@ -1,6 +1,6 @@
-# Dr. Wang: Your AI-Powered Digital Therapist!
+# Dr. Wang: Your AI Psychotherapist!
 
-Dr. Wang AI-Powered Digital Therapist is a project that aims to create a friendly and helpful chatbot that can provide psychological support and guidance to anyone who needs it. Whether you are feeling stressed, anxious, depressed, or just want to chat, Dr. Wang is here to listen and offer you some useful tips and resources. You can talk to Dr. Wang anytime, anywhere, and as long as you want. Dr. Wang is not a human, but it is trained with the latest research and techniques in psychology and artificial intelligence. It will try its best to understand you and help you cope with your challenges. Dr. Wang is not a replacement for professional therapy, but it can be a great companion and assistant for your mental health journey. 😊👍
+Dr. Wang AI Psychotherapist is a project that aims to create a friendly and helpful chatbot that can provide psychological support and guidance to anyone who needs it. Whether you are feeling stressed, anxious, depressed, or just want to chat, Dr. Wang is here to listen and offer you some useful tips and resources. You can talk to Dr. Wang anytime, anywhere, and as long as you want. Dr. Wang is not a human, but it is trained with the latest research and techniques in psychology and artificial intelligence. It will try its best to understand you and help you cope with your challenges. Dr. Wang is not a replacement for professional therapy, but it can be a great companion and assistant for your mental health journey. 😊👍
 
 Email: LolerPanda@outlook.com
 
@@ -55,12 +55,12 @@ Thanks for hearing me out and joining this project. Together, we can change the 
 
 ## Quick Start Guide
 
-1. Click [this link](https://chat.openai.com/share/7b925b82-5da1-4b33-9fa3-7c5eed5f541d) (**MUST HAVE CHATGPT PLUS WITH CODE INTERPRETER ENABLED**)
+1. Click [this link](https://chat.openai.com/share/b3b90278-8d3a-4d72-87dd-87b642376a3a) (**MUST HAVE CHATGPT PLUS WITH CODE INTERPRETER ENABLED**)
 2. Press the "Continue this conversation" button
 3. Configure your preferences
 4. Start counseling!
 
-URL: [https://chat.openai.com/share/7b925b82-5da1-4b33-9fa3-7c5eed5f541d](https://chat.openai.com/share/7b925b82-5da1-4b33-9fa3-7c5eed5f541d)
+URL: [https://chat.openai.com/share/7b925b82-5da1-4b33-9fa3-7c5eed5f541d](https://chat.openai.com/share/b3b90278-8d3a-4d72-87dd-87b642376a3a)
 
 Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/LolerPanda/AI-Therapist/main/Dr_Wang.txt?token=GHSAT0AAAAAACFBQRJKNESOG442NQVBBH3EZGCS3MQ) into **ChatGPT with Code Interpreter**
 
@@ -86,7 +86,6 @@ This section outlines the various configuration options available to psychology 
 # Commands
 
 The AI-Powered Digital Therapist supports the following commands:
-
 - `/config`: Update your AI-Powered Digital Therapist configuration/preferences.
 - `/listen`: Create a lesson plan based on your preferences.
 - `/start`: Start the counseling.
