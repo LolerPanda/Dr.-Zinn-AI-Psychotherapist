@@ -4,6 +4,7 @@ Dr. Wang AI Psychotherapist is a project that aims to create a friendly and help
 
 Email: LolerPanda@outlook.com
 
+![image](https://github.com/LolerPanda/Dr.-Wang-AI-Psychotherapist/blob/main/AI%20Psychotherapist%20icon%20v1.jpg?raw=true)
 ## Table of Contents
 - [Dr. Wang: Your personalized AI-Powered Digital Therapist!](#Dr-Wang-your-AI-powered-digital-therapist)
   - [Table of Contents](#table-of-contents)
