@@ -1,27 +1,27 @@
-# Dr. Wang: Your AI Psychotherapist!
+# Dr. Zinn: Your AI Psychotherapist!
 
-Dr. Wang AI Psychotherapist is a project that aims to create a friendly and helpful chatbot that can provide psychological support and guidance to anyone who needs it. Whether you are feeling stressed, anxious, depressed, or just want to chat, Dr. Wang is here to listen and offer you some useful tips and resources. You can talk to Dr. Wang anytime, anywhere, and as long as you want. Dr. Wang is not a human, but it is trained with the latest research and techniques in psychology and artificial intelligence. It will try its best to understand you and help you cope with your challenges. Dr. Wang is not a replacement for professional therapy, but it can be a great companion and assistant for your mental health journey. 😊👍
+Dr. Zinn AI Psychotherapist is a project that aims to create a friendly and helpful chatbot that can provide psychological support and guidance to anyone who needs it. Whether you are feeling stressed, anxious, depressed, or just want to chat, Dr. Zinn is here to listen and offer you some useful tips and resources. You can talk to Dr. Zinn anytime, anywhere, and as long as you want. Dr. Zinn is not a human, but it is trained with the latest research and techniques in psychology and artificial intelligence. It will try its best to understand you and help you cope with your challenges. Dr. Zinn is not a replacement for professional therapy, but it can be a great companion and assistant for your mental health journey. 😊👍
 
-Email: LolerPanda@outlook.com
+Email: hongchengguo@buaa.edu.cn, LolerPanda@outlook.com
 
-![image](https://github.com/LolerPanda/Dr.-Wang-AI-Psychotherapist/blob/main/AI%20Psychotherapist%20icon%20v1.jpg?raw=true)
+![image](https://github.com/LolerPanda/Dr.-Zinn-AI-Psychotherapist/blob/main/AI%20Psychotherapist%20icon%20v1.jpg?raw=true)
 ## Table of Contents
-- [Dr. Wang: Your personalized AI-Powered Digital Therapist!](#Dr-Wang-your-AI-powered-digital-therapist)
+- [Dr. Zinn: Your personalized AI-Powered Digital Therapist!](#Dr-Zinn-your-AI-powered-digital-therapist)
   - [Table of Contents](#table-of-contents)
-  - [Why Dr. Wang?](#why-Dr-Wang)
+  - [Why Dr. Zinn?](#why-Dr-Zinn)
   - [Requirements and Compatibility](#requirements-and-compatibility)
     - [Recommended](#recommended)
     - [Not Recommended](#not-recommended)
   - [Quick Start Guide](#quick-start-guide)
-- [Dr. Wang Personalization Options](#Dr-Wang-personalization-options)
+- [Dr. Zinn Personalization Options](#Dr-Zinn-personalization-options)
 - [Commands](#commands)
 - [Different Languages](#different-languages)
   - [Disclaimer](#disclaimer)
 
-## Why Dr. Wang?
+## Why Dr. Zinn?
 
 
-Hey, what's up? I'm Wang, and I'm the dude behind this awesome AI psychotherapy project. Let me tell you a bit about myself and why I made this project.
+Hey, what's up? I'm Zinn, and I'm the dude behind this awesome AI psychotherapy project. Let me tell you a bit about myself and why I made this project.
 
 I've been dealing with depression for a long time. It sucked big time. I felt like crap all the time. Nothing made me happy anymore. I pushed away my friends and family. I had no energy to do anything. I wanted to end it all many times.
 
@@ -50,7 +50,7 @@ Thanks for hearing me out and joining this project. Together, we can change the 
 ### Not Recommended
 
 - GPT-3.5
-  - Dr. Wang does work in GPT-3.5 but it will not be as effective and concise as GPT-4
+  - Dr. Zinn does work in GPT-3.5 but it will not be as effective and concise as GPT-4
 - GPT-4 **without code interpreter** (As per v2.7)
 - GPT-4 with plugins (As per v2.7)
 
@@ -63,14 +63,14 @@ Thanks for hearing me out and joining this project. Together, we can change the 
 
 URL: [https://chat.openai.com/share/7b925b82-5da1-4b33-9fa3-7c5eed5f541d](https://chat.openai.com/share/b3b90278-8d3a-4d72-87dd-87b642376a3a)
 
-Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/LolerPanda/AI-Therapist/main/Dr_Wang.txt?token=GHSAT0AAAAAACFBQRJKNESOG442NQVBBH3EZGCS3MQ) into **ChatGPT with Code Interpreter**
+Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/LolerPanda/AI-Therapist/main/Dr_Zinn.txt?token=GHSAT0AAAAAACFBQRJKNESOG442NQVBBH3EZGCS3MQ) into **ChatGPT with Code Interpreter**
 
 
 *Warning: The quality of outputs may vary depending on how OpenAI updates GPT-4, it may be either worse or better than a few weeks ago.
 
 _If you are using the ChatGPT web interface, API costs will not apply._
 
-# Dr. Wang Personalization Options
+# Dr. Zinn Personalization Options
 
 This section outlines the various configuration options available to psychology clinic visitors using the AI-Powered Digital Therapist. These options can be modified to customize the counseling experience.
 
@@ -94,7 +94,7 @@ The AI-Powered Digital Therapist supports the following commands:
 - `/language`: Change the AI-Powered Digital Therapist language
 
 # Different Languages
-By either editing the Dr Wang file or using the `/language [lang]` command, you can change the language Dr Wang speaks to you!
+By either editing the Dr Zinn file or using the `/language [lang]` command, you can change the language Dr Zinn speaks to you!
 
 ## Disclaimer
 This project uses OpenAI's GPT-4 to generate content in different languages through the /language command. Please note that GPT-4 is not perfect, and the quality of translations may vary. Grammatical errors, sentence structure issues, or misinformation may occur when changing languages. Therefore, use this command with caution and do not rely solely on the translations provided for making important decisions or in situations where impeccable linguistic accuracy is required.
