@@ -56,12 +56,12 @@ Thanks for hearing me out and joining this project. Together, we can change the 
 
 ## Quick Start Guide
 
-1. Click [this link](https://chat.openai.com/share/b3b90278-8d3a-4d72-87dd-87b642376a3a) (**MUST HAVE CHATGPT PLUS WITH CODE INTERPRETER ENABLED**)
+1. Click [this link](https://chat.openai.com/share/8fa347a5-9388-4daa-a018-474c841d4c73) (**MUST HAVE CHATGPT PLUS WITH CODE INTERPRETER ENABLED**)
 2. Press the "Continue this conversation" button
 3. Configure your preferences
 4. Start counseling!
 
-URL: [https://chat.openai.com/share/7b925b82-5da1-4b33-9fa3-7c5eed5f541d](https://chat.openai.com/share/b3b90278-8d3a-4d72-87dd-87b642376a3a)
+URL: [https://chat.openai.com/share/7b925b82-5da1-4b33-9fa3-7c5eed5f541d](https://chat.openai.com/share/8fa347a5-9388-4daa-a018-474c841d4c73)
 
 Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/LolerPanda/AI-Therapist/main/Dr_Zinn.txt?token=GHSAT0AAAAAACFBQRJKNESOG442NQVBBH3EZGCS3MQ) into **ChatGPT with Code Interpreter**
 
