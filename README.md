@@ -1,6 +1,14 @@
 # Dr. Zinn: Your AI Psychotherapist!
 
-Dr. Zinn AI Psychotherapist is a project that aims to create a friendly and helpful chatbot that can provide psychological support and guidance to anyone who needs it. Whether you are feeling stressed, anxious, depressed, or just want to chat, Dr. Zinn is here to listen and offer you some useful tips and resources. You can talk to Dr. Zinn anytime, anywhere, and as long as you want. Dr. Zinn is not a human, but it is trained with the latest research and techniques in psychology and artificial intelligence. It will try its best to understand you and help you cope with your challenges. Dr. Zinn is not a replacement for professional therapy, but it can be a great companion and assistant for your mental health journey. 😊👍
+Hello, I am Dr. Zinn AI Psychotherapist, a project that aims to create a friendly and helpful chatbot that can provide psychological support and guidance to anyone who needs it. Whether you are feeling stressed, anxious, depressed, or just want to chat, Dr. Zinn is here to listen and offer you some useful tips and resources. You can talk to Dr. Zinn anytime, anywhere, and as long as you want. Dr. Zinn is not a human, but it is trained with the latest research and techniques in psychology and artificial intelligence. It will try its best to understand you and help you cope with your challenges. 😊👍
+
+The role of AI Psychotherapist is to provide users with a convenient, low-cost, privacy-protected psychological counseling service, to help users relieve some mild psychological problems, such as anxiety, depression, stress, etc., and to improve users' psychological quality and happiness. AI Psychotherapist usually uses some scientific psychological therapy methods, such as cognitive behavioral therapy, mindfulness therapy, etc., to analyze users' emotions and thinking patterns, and to give users some appropriate suggestions and feedback. AI Psychotherapist can also increase users' participation and interest through some interactions and games, making users feel some fun and support. 😄🙌
+
+AI Psychotherapist does not have direct competition or conflict with human psychotherapists, but rather cooperates or complements with human psychotherapists, allowing more people who cannot or are unwilling to accept human psychotherapist services to get some basic psychological counseling and support. AI Psychotherapist can serve as a preventive or auxiliary psychological service, helping users improve their self-awareness and self-management, as well as providing some psychological resources and suggestions suitable for users. AI Psychotherapist can also serve as a transitional or bridging psychological service, helping users build trust and interest in psychological counseling, and guiding users to seek more professional and in-depth human psychotherapist services. 👏🙏
+
+If you want to try Dr. Zinn AI Psychotherapist's service, you can [Quick Start](https://chat.openai.com/share/8fa347a5-9388-4daa-a018-474c841d4c73), and you can start chatting with it. 😉👏
+
+I am very happy to meet you, and I look forward to having a meaningful conversation with you. 😊❤️
 
 Email: hongchengguo@buaa.edu.cn, LolerPanda@outlook.com
 
@@ -61,7 +69,7 @@ Thanks for hearing me out and joining this project. Together, we can change the 
 3. Configure your preferences
 4. Start counseling!
 
-URL: [https://chat.openai.com/share/7b925b82-5da1-4b33-9fa3-7c5eed5f541d](https://chat.openai.com/share/8fa347a5-9388-4daa-a018-474c841d4c73)
+URL: [https://chat.openai.com/share/8fa347a5-9388-4daa-a018-474c841d4c73](https://chat.openai.com/share/8fa347a5-9388-4daa-a018-474c841d4c73)
 
 Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/LolerPanda/AI-Therapist/main/Dr_Zinn.txt?token=GHSAT0AAAAAACFBQRJKNESOG442NQVBBH3EZGCS3MQ) into **ChatGPT with Code Interpreter**
 
