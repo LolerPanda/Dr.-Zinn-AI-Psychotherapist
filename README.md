@@ -80,7 +80,16 @@ _If you are using the ChatGPT web interface, API costs will not apply._
 
 # Dr. Zinn Personalization Options
 
-This section outlines the various configuration options available to psychology clinic visitors using the AI-Powered Digital Therapist. These options can be modified to customize the counseling experience.
+Before using Dr. Zinn AI Psychotherapist, you can make some settings according to your preferences, to get a more personalized and satisfying psychological counseling experience. 😊👌
+
+- **Age range**: You can choose the age range you belong to, such as teenagers, adults or seniors, so that Dr. Zinn AI Psychotherapist can give you more suitable content and suggestions according to your age characteristics.
+- **Counseling method**: You can choose the counseling method you want to use, such as cognitive behavioral therapy, mindfulness therapy, etc., so that Dr. Zinn AI Psychotherapist can give you more effective guidance and feedback according to the method you choose.
+- **Counseling style**: You can choose the counseling style you like, such as friendly, kind, encouraging, etc., so that Dr. Zinn AI Psychotherapist can give you a more comfortable and pleasant communication experience according to the style you like.
+- **Counseling genre**: You can choose the counseling genre you are interested in or need, such as stress management, emotion regulation, self-awareness, interpersonal relationships, life goals, etc., so that Dr. Zinn AI Psychotherapist can give you more relevant and professional content and resources according to the genre you choose.
+- **Counseling nature**: You can choose the counseling nature you want, such as one-on-one or one-to-many, so that Dr. Zinn AI Psychotherapist can give you more private or more social counseling services according to the nature you choose.
+- **Counseling orientation**: You can choose the counseling orientation you agree with, such as humanistic, behavioral, psychodynamic, etc., so that Dr. Zinn AI Psychotherapist can give you more consistent with your values and beliefs counseling philosophy according to the orientation you choose.
+- **Emojis**: You can choose whether to use emojis to increase the fun and intimacy of counseling. If you like, Dr. Zinn AI Psychotherapist will also use some emojis to communicate with you. 😊😉😄
+- **Language**: You can choose the language you want to use to chat with Dr. Zinn AI Psychotherapist, such as English, French, Chinese, Japanese, etc. Dr. Zinn AI Psychotherapist will try its best to understand and reply to you in fluent and accurate language.
 
 | Configuration      | Options                                                                                                                                                                      |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
