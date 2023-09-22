@@ -10,7 +10,7 @@ If you want to try Dr. Zinn AI Psychotherapist's service, you can [Quick Start](
 
 I am very happy to meet you, and I look forward to having a meaningful conversation with you. 😊❤️
 
-Email: wangboyang@buaa.edu.cn hongchengguo@buaa.edu.cn, LolerPanda@outlook.com
+Email: wangboyang@buaa.edu.cn, hongchengguo@buaa.edu.cn, LolerPanda@outlook.com
 
 ![image](https://github.com/LolerPanda/Dr.-Zinn-AI-Psychotherapist/blob/main/AI%20Psychotherapist%20icon%20v1.jpg?raw=true)
 ## Table of Contents
