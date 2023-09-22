@@ -6,7 +6,7 @@ The role of AI Psychotherapist is to provide users with a convenient, low-cost, 
 
 AI Psychotherapist does not have direct competition or conflict with human psychotherapists, but rather cooperates or complements with human psychotherapists, allowing more people who cannot or are unwilling to accept human psychotherapist services to get some basic psychological counseling and support. AI Psychotherapist can serve as a preventive or auxiliary psychological service, helping users improve their self-awareness and self-management, as well as providing some psychological resources and suggestions suitable for users. AI Psychotherapist can also serve as a transitional or bridging psychological service, helping users build trust and interest in psychological counseling, and guiding users to seek more professional and in-depth human psychotherapist services. 👏🙏
 
-If you want to try Dr. Zinn AI Psychotherapist's service, you can [Quick Start](https://chat.openai.com/share/8fa347a5-9388-4daa-a018-474c841d4c73), and you can start chatting with it. 😉👏
+If you want to try Dr. Zinn AI Psychotherapist's service, you can [Quick Start](https://chat.openai.com/share/d7010728-b632-4b0e-9a09-da5bdd98aae6), and you can start chatting with it. 😉👏
 
 I am very happy to meet you, and I look forward to having a meaningful conversation with you. 😊❤️
 
@@ -64,14 +64,14 @@ Thanks for hearing me out and joining this project. Together, we can change the 
 
 ## Quick Start Guide
 
-1. Click [this link](https://chat.openai.com/share/8fa347a5-9388-4daa-a018-474c841d4c73) (**MUST HAVE CHATGPT PLUS WITH CODE INTERPRETER ENABLED**)
+1. Click [this link](https://chat.openai.com/share/d7010728-b632-4b0e-9a09-da5bdd98aae6) (**MUST HAVE CHATGPT PLUS WITH CODE INTERPRETER ENABLED**)
 2. Press the "Continue this conversation" button
 3. Configure your preferences
 4. Start counseling!
 
 URL: [https://chat.openai.com/share/8fa347a5-9388-4daa-a018-474c841d4c73](https://chat.openai.com/share/8fa347a5-9388-4daa-a018-474c841d4c73)
 
-Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/LolerPanda/AI-Therapist/main/Dr_Zinn.txt?token=GHSAT0AAAAAACFBQRJKNESOG442NQVBBH3EZGCS3MQ) into **ChatGPT with Code Interpreter**
+Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/LolerPanda/AI-Therapist/test1/Dr_Zinn.txt?token=GHSAT0AAAAAACFBQRJKNESOG442NQVBBH3EZGCS3MQ) into **ChatGPT with Code Interpreter**
 
 
 *Warning: The quality of outputs may vary depending on how OpenAI updates GPT-4, it may be either worse or better than a few weeks ago.
