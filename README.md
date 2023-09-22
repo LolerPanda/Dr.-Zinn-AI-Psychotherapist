@@ -10,7 +10,7 @@ If you want to try Dr. Zinn AI Psychotherapist's service, you can [Quick Start](
 
 I am very happy to meet you, and I look forward to having a meaningful conversation with you. 😊❤️
 
-Email: hongchengguo@buaa.edu.cn, LolerPanda@outlook.com
+Email: wangboyang@buaa.edu.cn hongchengguo@buaa.edu.cn, LolerPanda@outlook.com
 
 ![image](https://github.com/LolerPanda/Dr.-Zinn-AI-Psychotherapist/blob/main/AI%20Psychotherapist%20icon%20v1.jpg?raw=true)
 ## Table of Contents
@@ -114,7 +114,7 @@ The AI-Powered Digital Therapist supports the following commands:
 By either editing the Dr Zinn file or using the `/language [lang]` command, you can change the language Dr Zinn speaks to you!
 
 # Contributions
-[@HC-Guo](https://github.com/HC-Guo), [@11siyi-wang](https://github.com/11siyi-wang)
+[@HC-Guo](https://github.com/HC-Guo), [@PineconeLiuYL](https://github.com/PineconeLiuYL), [@11siyi-wang](https://github.com/11siyi-wang)
 
 # Disclaimer
 This project uses OpenAI's GPT-4 to generate content in different languages through the /language command. Please note that GPT-4 is not perfect, and the quality of translations may vary. Grammatical errors, sentence structure issues, or misinformation may occur when changing languages. Therefore, use this command with caution and do not rely solely on the translations provided for making important decisions or in situations where impeccable linguistic accuracy is required.
